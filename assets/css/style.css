@@ -4,11 +4,9 @@
     box-sizing: border-box;
 }
 body {
-    /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
-  /* apply styles to <header> */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -78,8 +76,7 @@ section {
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
-}
-  
+}  
 .hero-form p {
     margin: 5px 0 15px 0;
 }
@@ -145,7 +142,7 @@ section {
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
-}
+} 
 .primary-border {
     border-color: #fce138;
 }  
@@ -213,8 +210,8 @@ section {
     color: #fce138;
     font-size: 32px;
 }  
-  .contact-info p,
-  .contact-info address {
+.contact-info p,
+.contact-info address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
